@@ -1,2 +1,2 @@
-# coursera-web-services-go
+# web-application-go
 go course
